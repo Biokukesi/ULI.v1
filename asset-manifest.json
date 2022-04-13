@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ULI.v1/static/css/main.156ea872.css",
+    "main.js": "/ULI.v1/static/js/main.e808837a.js",
+    "static/media/matt-ragland-02z1I7gv4ao-unsplash.jpg": "/ULI.v1/static/media/matt-ragland-02z1I7gv4ao-unsplash.7c8da8118180615732ca.jpg",
+    "static/media/logo.png": "/ULI.v1/static/media/logo.0e259582b662d6a45dd3.png",
+    "index.html": "/ULI.v1/index.html",
+    "main.156ea872.css.map": "/ULI.v1/static/css/main.156ea872.css.map",
+    "main.e808837a.js.map": "/ULI.v1/static/js/main.e808837a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.156ea872.css",
+    "static/js/main.e808837a.js"
+  ]
+}
